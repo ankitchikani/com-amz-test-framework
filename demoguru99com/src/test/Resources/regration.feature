@@ -64,3 +64,4 @@ Feature:End To End Testing
       |  oneway     | 3         | Frankfurt     | New York     |First          |Unified Airlines   |Blue Skies Airlines 361|Pangea Airlines 632    | $584 USD     |Visa            |2552366314414567|  08  |2006 |
       |  roundtrip  | 4         | Paris         | London       |Business       |Pangea Airlines    |Pangea Airlines 362    |Unified Airlines 633   | $584 USD     |Diners Club     |7458789665587845|  09  |2008 |
 
+
